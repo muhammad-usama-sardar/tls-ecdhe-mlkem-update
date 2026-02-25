@@ -19,8 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Update to Post-quantum Hybrid ECDHE-MLKEM Key Agreement for TLSv1.3"
+abbrev: "Hybrid ECDHE-MLKEM Update"
 category: info
 
 docname: draft-todo-yourname-protocol-latest
