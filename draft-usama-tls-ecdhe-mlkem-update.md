@@ -75,28 +75,16 @@ The security considerations of {{I-D.ietf-tls-ecdhe-mlkem}} apply.
 
 # IANA Considerations
 
-This document requests the following updates to three entries in the [TLS Supported Groups registry](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml#tls-parameters-8), according to the procedures in {{Section 6 of RFC9847}}.
-
-## SecP256r1MLKEM768
-
- Recommended:
- : Y
+This document requests the following update to the entry in the [TLS Supported Groups registry](https://www.iana.org/assignments/tls-parameters/tls-parameters.xhtml#tls-parameters-8), according to the procedures in {{Section 6 of RFC9847}}.
 
 ## X25519MLKEM768
 
  Recommended:
  : Y
 
-## SecP384r1MLKEM1024
-
- Recommended:
- : Y
-
 | Value | Description        | Recommended |
 |-------|--------------------|-------------|
-| 4587  | SecP256r1MLKEM768  | Y           |
 | 4588  | X25519MLKEM768     | Y           |
-| 4589  | SecP384r1MLKEM1024 | Y           |
 
 
 
